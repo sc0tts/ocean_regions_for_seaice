@@ -1,0 +1,47 @@
+
+Northern Hemisphere flag values:
+0: Ocean_No_Region_Specified
+1: Central_Arctic
+2: Beaufort_Sea
+3: Chukchi_Sea
+4: East_Siberian_Sea
+5: Laptev_Sea
+6: Kara_Sea
+7: Barents_Sea
+8: East_Greenland_Sea
+9: Baffin_Bay_and_Davis_Strait
+10: Gulf_of_St_Lawrence
+11: Hudson_Bay
+12: Canadian_Archipelago
+13: Bering_Sea
+14: Sea_of_Okhotsk
+15: Sea_of_Japan
+16: Bohai_and_Yellow_Seas
+17: Baltic_Sea
+18: Gulf_of_Alaska 
+
+...added in withland
+30: Land
+32: Lake
+33: Ice_on_Land
+34: Ice_Shelf
+35: Disconnected_Ocean
+
+
+Southern Hemisphere:
+0: Ocean_No_Region_Specified
+1: Weddell_Sea
+2: Indian_Ocean
+3: South_Pacific_Ocean 
+4: Ross_Sea
+5: Amundsen_and_Bellingshausen_Seas
+
+
+Southern Hemisphere (RH):
+0: Ocean_No_Region_Specified
+1: Weddell_Sea
+2: KingHaakonVII_Sea
+3: East_Antarctica
+4: Ross_and_Amundsen_Seas
+5: Amundsen_and_Bellingshausen_Seas
+

@@ -1,0 +1,25 @@
+
+Thoughts on metadata for nsidc0780
+
+Essential metadata for review:
+
+* TW: Temporal Coverage:
+        N/A ?
+
+* TW: Spatial Coverage:
+      E.g. NH Polar Stereo
+        global::geospatial_lat_min = 30.98 ;
+        global::geospatial_lat_max = 90. ;
+        global::geospatial_lon_min = -180. ;
+        global::geospatial_lon_max = 180. ;
+
+* TW: EPSG Code:
+        global::geospatial_bounds_crs = "EPSG:3411" ;
+
+* TW: Platforms
+        N/A ?
+
+* TW: Sensors
+        N/A ?
+
+
